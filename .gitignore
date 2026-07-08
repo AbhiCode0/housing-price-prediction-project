@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+model.pkl
+pipeline.pkl
+input.csv
+output.csv
+input - Copy.csv
+old_main.py
